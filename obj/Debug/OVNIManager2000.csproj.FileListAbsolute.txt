@@ -1,0 +1,16 @@
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\bin\Debug\OVNIManager2000.exe.config
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\bin\Debug\OVNIManager2000.exe
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\bin\Debug\OVNIManager2000.pdb
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.csproj.AssemblyReference.cache
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.csproj.SuggestedBindingRedirects.cache
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.Form1.resources
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.Properties.Resources.resources
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.csproj.GenerateResource.cache
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.csproj.CoreCompileInputs.cache
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.exe
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.pdb
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.Inicializador.resources
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\bin\Debug\BibliotecaOVNI.dll
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\bin\Debug\BibliotecaOVNI.pdb
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.csproj.CopyComplete
+C:\Users\caua.mmleite\source\repos\OVNIManager2000\OVNIManager2000\obj\Debug\OVNIManager2000.Painel.resources
